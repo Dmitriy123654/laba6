@@ -92,3 +92,7 @@ int main() {
 	cout << "удали меня2";
 	return 0;
 }
+void Sum13(int a, int b)
+{
+	cout << a + b << "  =13";
+}
