@@ -13,6 +13,7 @@ struct stack {
 		if (top) return false;
 		else return true;
 	}
+	
 
 	void push(int inf) {
 		TNode* spt = new TNode;
@@ -87,5 +88,6 @@ int main() {
 	spt = s.top;
 	s.print();
 	while (!s.empty()) s.pop();
+	cout << "удали меня";
 	return 0;
 }
