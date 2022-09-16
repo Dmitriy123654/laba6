@@ -88,7 +88,7 @@ int main() {
 	spt = s.top;
 	s.print();
 	while (!s.empty()) s.pop();
-	cout << "удали мен 123я";
+	cout << "удали меня";
 	cout << "удали меня2";
 	return 0;
 }
