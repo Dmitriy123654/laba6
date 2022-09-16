@@ -91,6 +91,7 @@ int main() {
 	cout << "удали мен 123я";
 	cout << "удали меня2";
 	cout << "гит";
+	cout << "гит2";
 	return 0;
 }
 void Sum13(int a, int b)
