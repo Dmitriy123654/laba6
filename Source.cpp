@@ -89,5 +89,6 @@ int main() {
 	s.print();
 	while (!s.empty()) s.pop();
 	cout << "удали меня";
+	cout << "удали меня2";
 	return 0;
 }
